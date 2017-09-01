@@ -1,2 +1,2 @@
-# paulchoi94.github.io
-Personal Website
+# paulchoi.github.io
+personal portfolio
